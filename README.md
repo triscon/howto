@@ -1,2 +1,2 @@
 # howto
-Useful HowTos written with 💙 by tricon
+Useful HowTos written with 💙 by triscon
